@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="RYAN TV",I-NEWS
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+#EXT-X-Amz-Cf-Id:6XuFEf7rwn876jCKxUE3k-6vRc0Qu8BsLha8Y_rGdwL0mjbqUDuN2w==
+#EXT-X-Amz-Cf-Pop: SIN5-C1
+#EXT-X-Anevia-Edge: hit; cluster=sourcegroup2; backend=sourcegroup2_instance1
+#EXT-X-Cache: Miss from cloudfront
+#EXT-X-IP-Tos: 0
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="RYAN TV",RCTI
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="RYAN TV",MNCTV
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="RYAN TV",GTV
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+########################################################    RYAN TV   ############################################################
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV ", TVN 
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TVN MOVIES 
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", BLUE ANT ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", BLUE ANT EXTREME 
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", K+ 
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", CCTV4
+http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", FRANCE 24
+http://210.210.155.35:80/qwr9ew/s/s22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", DW
+http://210.210.155.35:80/qwr9ew/s/s26/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", NHK WORLD JAPAN
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", SONY GEM TV 
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", SONY ONE 
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", CINEMA WORLD 
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", CELESTIAL MOVIES 
+http://210.210.155.35:80/qwr9ew/s/s33/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", ZEE BIOSKOP 
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", THRILL 
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TV5 MONDE
+http://210.210.155.35:80/uq2663/h/h01/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg " group-title="RYAN TV", BLOOMBERG 
+http://210.210.155.35:80/uq2663/h/h03/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", EGG TV 
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TRANS 7
+http://210.210.155.35:80/qwr9ew/s/s101/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Sinema Indonesia
+http://210.210.155.35/session/589abc60-fb25-11eb-82e0-c81f66f89318/uq2663/h/h155/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TVRI
+http://210.210.155.35/session/f035043e-fb13-11eb-bca3-c81f66f89318/qwr9ew/s/s11/01.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Rock Extrem
+http://rr1.dens.tv/h/h15/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", RAI Italia
+http://rr3.dens.tv/s/s63/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Phoenix
+http://rr2.dens.tv/s/s21/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Phoenix Chinese
+http://rr.dens.tv/h/h157/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Shanghai Dragon
+http://rr3.dens.tv/s/s29/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Style
+http://rr1.dens.tv/h/h01/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", RT
+http://rr3.dens.tv/s/s23/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", RTP
+http://rr2.dens.tv/s/s38/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TBN
+http://rr2.dens.tv/s/s39/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Telenovela
+http://rr.dens.tv/h/h153/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Toonmax
+http://rr2.dens.tv/s/s50/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TRT World
+http://rr.dens.tv/h/h156/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TVE
+http://rr.dens.tv/h/h158/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", TVRI SPORT
+http://rr2.dens.tv/s/s107/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", UA
+http://rr.dens.tv/h/h101/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", U Channel
+http://rr2.dens.tv/s/s41/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", WION
+http://rr.dens.tv/h/h91/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg" group-title="RYAN TV", Xing Kong
+http://rr3.dens.tv/s/s94/index2.m3u8
