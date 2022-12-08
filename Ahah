@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ABC Australia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
 https://etslive-2-vidio-com.akamaized.net/exp=1670528201~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=9ac322ba99403ea2efe26e46e024244c027ff6f745ef8b93d399fe7b725875e6/vp9/204_stream.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",INDOSIAR
+https://etslive-2-vidio-com.akamaized.net/exp=1670528778~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=094b34e07bee4099fa3e65e05fd71c52db90e29e85c2db3177227b13c4525a30/vp9/205_stream.mpd
