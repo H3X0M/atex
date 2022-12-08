@@ -10,3 +10,11 @@ https://etslive-2-vidio-com.akamaized.net/exp=1670532011~acl=/vp9/733_stream.mpd
 #EXTINF:X-Request-Id: "34391f2b-eff5-4f0d-9994-1677a1ace8e8"
 #EXTINF:Remote-Address: "116.0.81.225:443"
 https://live-production.secureswiftcontent.com/exp=1670538660~acl=/hls-p/ingest_782_*/*~hmac=d7348bf1357df1ce9ecda70f2ffde7b4c633dc8c88aecafa3979eef26ade51bc/hls-p/ingest_782_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/MNC_Group_2014.png" group-title="MNCTV GRUP",MNCTV
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/MNC_Group_2014.png" group-title="MNCTV GRUP",RCTI
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/MNC_Group_2014.png" group-title="MNCTV GRUP",GTV
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/MNC_Group_2014.png" group-title="MNCTV GRUP",I-NEWS
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
