@@ -7,6 +7,6 @@
 #EXT-X-Anevia-Edge: hit; cluster=sourcegroup2; backend=sourcegroup2_instance1
 #EXT-X-Cache: Miss from cloudfront
 #EXT-X-IP-Tos: 0
-#EXT-Referer: https://www.rctiplus.com/
-#EXT-User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
