@@ -1,0 +1,13 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",SCTV
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=351515,AVERAGE-BANDWIDTH=319559,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000
+#EXT-X-Amz-Cf-Id:6XuFEf7rwn876jCKxUE3k-6vRc0Qu8BsLha8Y_rGdwL0mjbqUDuN2w==
+#EXT-X-Amz-Cf-Pop: SIN5-C1
+#EXT-X-Anevia-Edge: hit; cluster=sourcegroup2; backend=sourcegroup2_instance1
+#EXT-X-Cache: Miss from cloudfront
+#EXT-X-IP-Tos: 0
+#EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
