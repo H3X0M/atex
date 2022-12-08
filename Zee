@@ -1,0 +1,10 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gdplayer.tv/license/?drm=widevine&key=zee-bioskop
+#EXTINF:-1 group-title="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Ryan tssest
+https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP-avc1_1000000=6-2504649910000000.mp4
+#EXTMP4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gdplayer.tv/license/?drm=widevine&key=zee-bioskop
+#EXTINF:-1 group-title="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Ryan tssest
+https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP-avc1_1000000=6-2504649910000000.mp4
