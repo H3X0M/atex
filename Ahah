@@ -6,3 +6,8 @@ https://etslive-2-vidio-com.akamaized.net/exp=1670528778~acl=/vp9/205_stream.mpd
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-mp4a_98800_eng=2-2504444500106665.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TRANS TV
 https://etslive-2-vidio-com.akamaized.net/exp=1670532011~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=04be16d92be896f8d3871b4740f7d8924c9ba58a704d9bb434b2908e90b03e02/vp9/733_stream.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",ANTV
+#EXTINF:Access-Control-Expose-Headers: "Content-Length, Content-Type, Date, Server, Transfer-Encoding, X-GUploader-UploadID, X-Google-Trace, X-CDN"
+#EXTINF:X-Request-Id: "34391f2b-eff5-4f0d-9994-1677a1ace8e8"
+#EXTINF:Remote-Address: "116.0.81.225:443"
+https://live-production.secureswiftcontent.com/exp=1670538660~acl=/hls-p/ingest_782_*/*~hmac=d7348bf1357df1ce9ecda70f2ffde7b4c633dc8c88aecafa3979eef26ade51bc/hls-p/ingest_782_720p/index.m3u8
