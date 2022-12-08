@@ -4,3 +4,5 @@ https://etslive-2-vidio-com.akamaized.net/exp=1670528201~acl=/vp9/204_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1670528778~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=094b34e07bee4099fa3e65e05fd71c52db90e29e85c2db3177227b13c4525a30/vp9/205_stream.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",RCTI
 https://av-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD-mp4a_98800_eng=2-2504444500106665.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",TRANS TV
+https://etslive-2-vidio-com.akamaized.net/exp=1670532011~acl=/vp9/733_stream.mpd!/vp9/733/*!/vp9/*/733_stream.mpd!/vp9/*/733/*~hmac=04be16d92be896f8d3871b4740f7d8924c9ba58a704d9bb434b2908e90b03e02/vp9/733_stream.mpd
