@@ -20,7 +20,7 @@ https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_
 #EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",USEETV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Logo_Vidio.png" group-title="VIDIO",Zee Bioskop
 #EXTVLCOPT:User-Agent= Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.useetv.com
-https://cdnkbl1.indihometv.com/joss/133/transtv1080/chunklist_w430754975_b844100_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://okezone.visionplus.id/
+https://av-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
