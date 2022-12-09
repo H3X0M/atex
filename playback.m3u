@@ -1,8 +1,7 @@
-
 #EXTM3U
-#EXTINF:-1 group-title="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Ryan tssest
+#EXTINF:-1 group-title="MNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835",Ryan zgugu
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=<token>||R{SSM}|
+#KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=B%2Bqtvzim8AS7tOSEr4SG%2BnBGr2WLLUxXKc6uWq4GMCyNn0ZoRCe6MBgryKkLwpVOajARfgCHQA9r1af%2F4cS1a7MZe5pFzw7xQRD17SeXaTRhHkJ0xWDVB3Lun6JfiKVMMFTKGIsa%2Bi0GM9oy7bSlBXOPh2kiPZ9b1zpG1YJLmu4oMYWQ%2F1Mb3tqqnRk9sCUC%2BJCvpppT7JtFbMnWVdakzBr%2FtwXH1sL%2FwKBeSnlKEs%2FsztZkoSlVbtaUmDRwm9U7
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
